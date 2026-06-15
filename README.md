@@ -48,4 +48,4 @@ TypeScript, Next.js, React, Node.js, NestJS, Express, MySQL, Prisma, Redis, Tail
 ## Contact
 
 - GitHub: [github.com/MihichN](https://github.com/MihichN)
-- LinkedIn: [www.linkedin.com/in/mihichn](www.linkedin.com/in/mihichn)
+- LinkedIn: [https://www.linkedin.com/in/mikhail-nikitin-dev](https://www.linkedin.com/in/mikhail-nikitin-dev)
