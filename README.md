@@ -1,6 +1,6 @@
 # Hi, I'm Mihich
 
-Senior / Lead Full-Stack Engineer building production-oriented systems end-to-end.
+Senior / Lead Backend Engineer building production-oriented systems end-to-end.
 
 I work across architecture, backend, frontend, integrations, reliability, and product execution. My strongest experience is in systems where business logic, operational safety, and real-world failure modes matter: fintech, crypto payments, SaaS platforms, ML-assisted automation, Telegram workflows, and iOS products.
 
